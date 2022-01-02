@@ -1,2 +1,2 @@
-# Python-Block-Chain
-Implementation of a block chain data structure in Python.
+# Python-Blockchain
+Implementation of a blockchain data structure in Python.
